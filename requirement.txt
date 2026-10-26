@@ -1,0 +1,4 @@
+google-analytics-data
+google-cloud-bigquery
+db-dtypes
+pandas
