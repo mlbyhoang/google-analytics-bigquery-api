@@ -45,13 +45,17 @@ This repository serves as a personal code portfolio and a central place for stor
 ### Repository Structure
 
 google-analytics-bigquery-api/
+
 ├── notebooks/
 
 │   ├── ga4_api.ipynb
 
 │   └── bigquery_api.ipynb
+
 ├── README.md
+
 ├── requirements.txt
+
 └── .gitignore
 
 ### Configuration
