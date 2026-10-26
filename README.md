@@ -48,9 +48,9 @@ google-analytics-bigquery-api/
 
 ├── notebooks/
 
-│    ├── ga4_api.ipynb
+│   ├── ga4_api.ipynb
 
-│    └── bigquery_api.ipynb
+│   └── bigquery_api.ipynb
 
 ├── README.md
 
