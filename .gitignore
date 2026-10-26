@@ -1,3 +1,14 @@
+# Google API credentials
+*credentials*.json
+*service-account*.json
+client_secrets.json
+credentials/
+secrets/
+
+# Local configuration
+.env.*
+!.env.example
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
